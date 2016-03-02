@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\mukesh\\AndroidStudioProjects\\CallRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_example.png",
+        "source": "C:\\Users\\mukesh\\AndroidStudioProjects\\CallRecorder\\app\\src\\main\\res\\drawable-ldpi\\ic_menu_example.png"
+    },
+    {
+        "merged": "C:\\Users\\mukesh\\AndroidStudioProjects\\CallRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_record_enable.png",
+        "source": "C:\\Users\\mukesh\\AndroidStudioProjects\\CallRecorder\\app\\src\\main\\res\\drawable-ldpi\\ic_record_enable.png"
+    },
+    {
+        "merged": "C:\\Users\\mukesh\\AndroidStudioProjects\\CallRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_record_disable.png",
+        "source": "C:\\Users\\mukesh\\AndroidStudioProjects\\CallRecorder\\app\\src\\main\\res\\drawable-ldpi\\ic_record_disable.png"
+    },
+    {
+        "merged": "C:\\Users\\mukesh\\AndroidStudioProjects\\CallRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_tab_example_unselected.png",
+        "source": "C:\\Users\\mukesh\\AndroidStudioProjects\\CallRecorder\\app\\src\\main\\res\\drawable-ldpi\\ic_tab_example_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\mukesh\\AndroidStudioProjects\\CallRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\mukesh\\AndroidStudioProjects\\CallRecorder\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mukesh\\AndroidStudioProjects\\CallRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_about.png",
+        "source": "C:\\Users\\mukesh\\AndroidStudioProjects\\CallRecorder\\app\\src\\main\\res\\drawable-ldpi\\ic_about.png"
+    },
+    {
+        "merged": "C:\\Users\\mukesh\\AndroidStudioProjects\\CallRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_tab_example_selected.png",
+        "source": "C:\\Users\\mukesh\\AndroidStudioProjects\\CallRecorder\\app\\src\\main\\res\\drawable-ldpi\\ic_tab_example_selected.png"
+    }
+]
